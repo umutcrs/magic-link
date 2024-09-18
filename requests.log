@@ -1,0 +1,4453 @@
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e14ab3df274464338654ca&token=4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e14ab3df274464338654ca&token=4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06',
+      query: {
+        userId: '66e14ab3df274464338654ca',
+        token: '4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 75
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e14ab3df274464338654ca&token=4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"macOS"',
+        accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'no-cors',
+        'sec-fetch-dest': 'image',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e14ab3df274464338654ca&token=4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e14ab3df274464338654ca&token=4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06',
+      query: {
+        userId: '66e14ab3df274464338654ca',
+        token: '4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e14ab3df274464338654ca&token=4714601daa1485790a9e99052a21cc3f9cb380fecf65e8190545a95e4b6a4d06'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e14ab3df274464338654ca&token=afc6356a1cd90e504cbf809f037ef5007de568765c972e60e09df35d7dcd1d0c',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e14ab3df274464338654ca&token=afc6356a1cd90e504cbf809f037ef5007de568765c972e60e09df35d7dcd1d0c',
+      query: {
+        userId: '66e14ab3df274464338654ca',
+        token: 'afc6356a1cd90e504cbf809f037ef5007de568765c972e60e09df35d7dcd1d0c'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 69
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e14ab3df274464338654ca&token=afc6356a1cd90e504cbf809f037ef5007de568765c972e60e09df35d7dcd1d0c'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: '7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 139
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"macOS"',
+        accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'no-cors',
+        'sec-fetch-dest': 'image',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: '7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=7307c1bf563eceffee8861037afe8d85447dd43601351bba9d3bd42fdaad5907'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=643e978fd3c5e42f5dcf7d8357f111fa8020602b2f600046f9e2ede55fb54977',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=643e978fd3c5e42f5dcf7d8357f111fa8020602b2f600046f9e2ede55fb54977',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: '643e978fd3c5e42f5dcf7d8357f111fa8020602b2f600046f9e2ede55fb54977'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 13
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=643e978fd3c5e42f5dcf7d8357f111fa8020602b2f600046f9e2ede55fb54977'
+}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*'
+      },
+      method: 'HEAD',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: 'HTTP HEAD /'
+}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*'
+      },
+      method: 'HEAD',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP HEAD /'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '34'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1880
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=608a1dbabe3f983e716b99be7a4d917abc0f3e5432dd43638047a4986a11ea90',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=608a1dbabe3f983e716b99be7a4d917abc0f3e5432dd43638047a4986a11ea90',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: '608a1dbabe3f983e716b99be7a4d917abc0f3e5432dd43638047a4986a11ea90'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 109
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=608a1dbabe3f983e716b99be7a4d917abc0f3e5432dd43638047a4986a11ea90'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '42'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '42'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '42'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=4e47ac99960d4e116645cdb0c25823c619e34b43a8ca7710098a1ae4757c25b1',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=4e47ac99960d4e116645cdb0c25823c619e34b43a8ca7710098a1ae4757c25b1',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: '4e47ac99960d4e116645cdb0c25823c619e34b43a8ca7710098a1ae4757c25b1'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 140
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=4e47ac99960d4e116645cdb0c25823c619e34b43a8ca7710098a1ae4757c25b1'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"macOS"',
+        accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'no-cors',
+        'sec-fetch-dest': 'image',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: 'ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 79
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1f925045f9614405804e0&token=e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1f925045f9614405804e0&token=e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128',
+      query: {
+        userId: '66e1f925045f9614405804e0',
+        token: 'e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 86
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1f925045f9614405804e0&token=e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"macOS"',
+        accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'no-cors',
+        'sec-fetch-dest': 'image',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1f925045f9614405804e0&token=e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1f925045f9614405804e0&token=e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128',
+      query: {
+        userId: '66e1f925045f9614405804e0',
+        token: 'e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 86
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1f925045f9614405804e0&token=e691e5e1a244b1729a7358b31e1b13aa96f11d6f612c6840ebeaa8d38283d128'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NzFjMmM5NGVjYWFjNTgwNzU1NGU1Y2EzMTU5YmRjMWYxNmQ3ZWQ1YzhmNTU5NDMxNmUwNTNhNjQzOGY4MDhkNQ%3D%3D',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NzFjMmM5NGVjYWFjNTgwNzU1NGU1Y2EzMTU5YmRjMWYxNmQ3ZWQ1YzhmNTU5NDMxNmUwNTNhNjQzOGY4MDhkNQ%3D%3D',
+      query: {
+        token: 'NzFjMmM5NGVjYWFjNTgwNzU1NGU1Y2EzMTU5YmRjMWYxNmQ3ZWQ1YzhmNTU5NDMxNmUwNTNhNjQzOGY4MDhkNQ=='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 86
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NzFjMmM5NGVjYWFjNTgwNzU1NGU1Y2EzMTU5YmRjMWYxNmQ3ZWQ1YzhmNTU5NDMxNmUwNTNhNjQzOGY4MDhkNQ%3D%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk%3D',
+      query: {
+        token: 'NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 79
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"macOS"',
+        accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'no-cors',
+        'sec-fetch-dest': 'image',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk%3D',
+      query: {
+        token: 'NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOjMzYzA4YjE4NmI0MGZiM2JkOGU5M2JkMWFlZjExYjAxODRmOWM5NTJhYWY3MjQ1MTRlNDMxNzk5NDVjNTc4NDk%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      query: {
+        token: 'NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 82
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM%3D',
+      query: {
+        token: 'NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 74
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM%3D',
+      query: {
+        token: 'NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWY5MjUwNDVmOTYxNDQwNTgwNGUwOmUwMzIzM2U1ZTU1ZmYyM2Q5MTFhYWNjZjlhZTFjYWQzNGIzMDBiNjA3NDg4ZmNhOTI3YjAyNGIzN2U2NTNiMWM%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      query: {
+        token: 'NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      query: {
+        token: 'NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D',
+      query: {
+        token: 'NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjY1OTMyZDRjNzUzODY1OWZkNWFjMjU2NjM1MTQ5MmNmZGM1N2Y0OTUyYTcwODA4OTg1YTkyZmJiY2MyNmYwYTA%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=6639f257dbc57723e21bc09a&token=52957ffd98820f58c3088aa7a76e12fd6029851c91eaef36521ff929ab2db85f',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=6639f257dbc57723e21bc09a&token=52957ffd98820f58c3088aa7a76e12fd6029851c91eaef36521ff929ab2db85f',
+      query: {
+        userId: '6639f257dbc57723e21bc09a',
+        token: '52957ffd98820f58c3088aa7a76e12fd6029851c91eaef36521ff929ab2db85f'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=6639f257dbc57723e21bc09a&token=52957ffd98820f58c3088aa7a76e12fd6029851c91eaef36521ff929ab2db85f'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      headers: {
+        host: 'localhost:3002',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: 'ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      headers: {
+        host: 'localhost:3002',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: 'ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      headers: {
+        host: 'localhost:3002',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528',
+      query: {
+        userId: '66e1ccef0944767c8fd4f660',
+        token: 'ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?userId=66e1ccef0944767c8fd4f660&token=ea2a35034a5bb46050f3830ef7c6b54b7034ccf77e711251cb6222e1f0643528'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3231
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1953
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2394
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2034
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1811
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3047
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1820
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2230
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1718
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2745
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1715
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1768
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2098
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1901
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2948
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2067
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3011
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1819
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1920
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1719
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 4071
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1816
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2817
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3885
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1906
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2089
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1668
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1641
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3046
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1842
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1876
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1823
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 5012
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2199
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1823
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2022
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1812
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3044
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3145
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1815
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1936
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1998
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2123
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1727
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2815
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1841
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1915
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1815
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3025
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1694
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1992
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1891
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2326
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2278
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3177
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1845
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1811
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2019
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2019
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2122
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1815
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2224
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2839
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3184
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3827
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1920
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2023
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1919
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1813
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1635
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1687
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1672
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1655
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2939
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1715
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1727
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2888
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2906
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1710
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1572
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1650
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1614
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1671
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2981
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1711
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1985
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1643
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1812
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1632
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1809
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2030
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2742
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1813
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3862
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1611
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1796
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1595
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 5637
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1814
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1615
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/request-magic-link',
+      headers: {
+        host: 'localhost:3002',
+        'user-agent': 'curl/8.6.0',
+        accept: '*/*',
+        'content-type': 'application/json',
+        'content-length': '33'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/request-magic-link',
+      query: {}
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP POST /request-magic-link'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOmYzZmZiMTg1M2M2ZWExZmEwMWZjMTliZDc1NDM2YjJkOWU5NjE1Yjg3MTZhZDI0N2RkYjFkNDdjYmM4NTNhOGI%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOmYzZmZiMTg1M2M2ZWExZmEwMWZjMTliZDc1NDM2YjJkOWU5NjE1Yjg3MTZhZDI0N2RkYjFkNDdjYmM4NTNhOGI%3D',
+      query: {
+        token: 'NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOmYzZmZiMTg1M2M2ZWExZmEwMWZjMTliZDc1NDM2YjJkOWU5NjE1Yjg3MTZhZDI0N2RkYjFkNDdjYmM4NTNhOGI='
+      }
+    },
+    res: { statusCode: 429 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOmYzZmZiMTg1M2M2ZWExZmEwMWZjMTliZDc1NDM2YjJkOWU5NjE1Yjg3MTZhZDI0N2RkYjFkNDdjYmM4NTNhOGI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjJjMGI1YzgyYWM2YWNlZGZmM2YwOGM2ZTExNmZhZDcxY2ZiY2E2YjFjMWE4ZWFkOWRlOTJlN2JkOTQ2MTQwNWI%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjJjMGI1YzgyYWM2YWNlZGZmM2YwOGM2ZTExNmZhZDcxY2ZiY2E2YjFjMWE4ZWFkOWRlOTJlN2JkOTQ2MTQwNWI%3D',
+      query: {
+        token: 'NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjJjMGI1YzgyYWM2YWNlZGZmM2YwOGM2ZTExNmZhZDcxY2ZiY2E2YjFjMWE4ZWFkOWRlOTJlN2JkOTQ2MTQwNWI='
+      }
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjJjMGI1YzgyYWM2YWNlZGZmM2YwOGM2ZTExNmZhZDcxY2ZiY2E2YjFjMWE4ZWFkOWRlOTJlN2JkOTQ2MTQwNWI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjAyMTMxNmNmNzA1ZjA2YmE0ZWY5MTE2ZDk1NjJiZTFmMmIxN2RmYzkzYzA5OWRmYzA5OWVkNThkMzFmNTNhYWI%3D',
+      headers: {
+        host: 'localhost:3002',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjAyMTMxNmNmNzA1ZjA2YmE0ZWY5MTE2ZDk1NjJiZTFmMmIxN2RmYzkzYzA5OWRmYzA5OWVkNThkMzFmNTNhYWI%3D',
+      query: {
+        token: 'NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjAyMTMxNmNmNzA1ZjA2YmE0ZWY5MTE2ZDk1NjJiZTFmMmIxN2RmYzkzYzA5OWRmYzA5OWVkNThkMzFmNTNhYWI='
+      }
+    },
+    res: { statusCode: 429 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlMWZlZmE3Y2UxYjBjYzA5NWJkYmZhOjAyMTMxNmNmNzA1ZjA2YmE0ZWY5MTE2ZDk1NjJiZTFmMmIxN2RmYzkzYzA5OWRmYzA5OWVkNThkMzFmNTNhYWI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjdjZDM3N2QwN2JjYjA3N2U1MWFlOWNhZjQyODEyZDEyYzY1Y2UwMmE0OTdkZGNmMzdiOGI0YTAyNjhmYmE0YzY%3D',
+      headers: {
+        host: 'localhost:3005',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjdjZDM3N2QwN2JjYjA3N2U1MWFlOWNhZjQyODEyZDEyYzY1Y2UwMmE0OTdkZGNmMzdiOGI0YTAyNjhmYmE0YzY%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjdjZDM3N2QwN2JjYjA3N2U1MWFlOWNhZjQyODEyZDEyYzY1Y2UwMmE0OTdkZGNmMzdiOGI0YTAyNjhmYmE0YzY='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 84
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjdjZDM3N2QwN2JjYjA3N2U1MWFlOWNhZjQyODEyZDEyYzY1Y2UwMmE0OTdkZGNmMzdiOGI0YTAyNjhmYmE0YzY%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjk4MDRjNWFiMzJmZGMxMjQzOTYxNTllMWI3MjMyZTU1NDFjNmE1YTFhYzZmY2E0MjdmYTE5NWIwZDc3ZDZlZWE%3D',
+      headers: {
+        host: 'localhost:3005',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjk4MDRjNWFiMzJmZGMxMjQzOTYxNTllMWI3MjMyZTU1NDFjNmE1YTFhYzZmY2E0MjdmYTE5NWIwZDc3ZDZlZWE%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjk4MDRjNWFiMzJmZGMxMjQzOTYxNTllMWI3MjMyZTU1NDFjNmE1YTFhYzZmY2E0MjdmYTE5NWIwZDc3ZDZlZWE='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 93
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjk4MDRjNWFiMzJmZGMxMjQzOTYxNTllMWI3MjMyZTU1NDFjNmE1YTFhYzZmY2E0MjdmYTE5NWIwZDc3ZDZlZWE%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM%3D',
+      headers: {
+        host: 'localhost:3005',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 86
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM%3D',
+      headers: {
+        host: 'localhost:3005',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwOGI3YTMxMWI4ZTJkNzgxNTA1YmYwNWQ4MTAzMGEyYjk4OWM2ZDE5YTkxNDE2NjAzNGM1MWViNWVkOTI1OGM%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjUyYzJmYWUxYjhlZWIzZTMxMTUwNGU5NTVlMjg1ODVlMDk2MGE4MzZlOGQ2OTJkMWY5ZWExYmVhMmI3OTIyZTk%3D',
+      headers: {
+        host: 'localhost:3005',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjUyYzJmYWUxYjhlZWIzZTMxMTUwNGU5NTVlMjg1ODVlMDk2MGE4MzZlOGQ2OTJkMWY5ZWExYmVhMmI3OTIyZTk%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjUyYzJmYWUxYjhlZWIzZTMxMTUwNGU5NTVlMjg1ODVlMDk2MGE4MzZlOGQ2OTJkMWY5ZWExYmVhMmI3OTIyZTk='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 91
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjUyYzJmYWUxYjhlZWIzZTMxMTUwNGU5NTVlMjg1ODVlMDk2MGE4MzZlOGQ2OTJkMWY5ZWExYmVhMmI3OTIyZTk%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/apple-touch-icon-precomposed.png',
+      headers: {
+        host: 'localhost:3005',
+        accept: '*/*',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        connection: 'keep-alive',
+        'accept-encoding': 'gzip, deflate',
+        'user-agent': 'Safari/19618.2.12.11.6 CFNetwork/1496.0.7 Darwin/23.5.0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/apple-touch-icon-precomposed.png',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /apple-touch-icon-precomposed.png'
+}
+{
+  meta: {
+    req: {
+      url: '/apple-touch-icon.png',
+      headers: {
+        host: 'localhost:3005',
+        accept: '*/*',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        connection: 'keep-alive',
+        'accept-encoding': 'gzip, deflate',
+        'user-agent': 'Safari/19618.2.12.11.6 CFNetwork/1496.0.7 Darwin/23.5.0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/apple-touch-icon.png',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP GET /apple-touch-icon.png'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU%3D',
+      headers: {
+        host: 'localhost:3005',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 95
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU%3D',
+      headers: {
+        host: 'localhost:3005',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjczMDdkMjBmMzA4MGViYzMyZjliNGE0OGFiNTQxNzJlNTNjYjY4ODJkZmI3ZGIwYzUxZTc1ODk0ZmIzNWE2YmU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI%3D',
+      headers: {
+        host: 'localhost:3006',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 83
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjVlZGE1ODkzOGJkOGJjYTJmMjZlM2IzZjJhYjIwZmVhMzZiZTc5MWU4M2ViMDdjNjY2M2I2MjdhZWQ3YzRmMDI%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjVlZGE1ODkzOGJkOGJjYTJmMjZlM2IzZjJhYjIwZmVhMzZiZTc5MWU4M2ViMDdjNjY2M2I2MjdhZWQ3YzRmMDI%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjVlZGE1ODkzOGJkOGJjYTJmMjZlM2IzZjJhYjIwZmVhMzZiZTc5MWU4M2ViMDdjNjY2M2I2MjdhZWQ3YzRmMDI='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 92
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjVlZGE1ODkzOGJkOGJjYTJmMjZlM2IzZjJhYjIwZmVhMzZiZTc5MWU4M2ViMDdjNjY2M2I2MjdhZWQ3YzRmMDI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 92
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI%3D',
+      headers: {
+        host: 'localhost:3006',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 12
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmI5N2YyNjQyNDU3ODQxZTE1NTg0Y2MzYjcwODdlZTI0OGM3M2UwOTNkYThkNjFmOGRkNWU4MGZiNTNjZDY1MDI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmY2ZmY1MzQ3MjIwOWZiNDIzY2Y4MWExODhmY2FjYzEzNDk0ODAwY2QwYmY1ZmQyYmRiNTEzYTA1YjY5NjhlOGU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmZiYWY1OTQyZTkwMTQ3YzVhNDZiZjI2YjM1MWU4MGFkYTJhNmQ0OGZlYWY3ZjE2MTM2YTA1NzVhZmUzYWI4ZDI%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmZiYWY1OTQyZTkwMTQ3YzVhNDZiZjI2YjM1MWU4MGFkYTJhNmQ0OGZlYWY3ZjE2MTM2YTA1NzVhZmUzYWI4ZDI%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmZiYWY1OTQyZTkwMTQ3YzVhNDZiZjI2YjM1MWU4MGFkYTJhNmQ0OGZlYWY3ZjE2MTM2YTA1NzVhZmUzYWI4ZDI='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 79
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmZiYWY1OTQyZTkwMTQ3YzVhNDZiZjI2YjM1MWU4MGFkYTJhNmQ0OGZlYWY3ZjE2MTM2YTA1NzVhZmUzYWI4ZDI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwZTllMzdkZDEyN2UyOWE1MTI3NzViYWE2OWQ5ZDIxNDU2MGU4MDgzOTlhNTNiNGE5NTA0MmRiNzk1ZTlmYWQ%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwZTllMzdkZDEyN2UyOWE1MTI3NzViYWE2OWQ5ZDIxNDU2MGU4MDgzOTlhNTNiNGE5NTA0MmRiNzk1ZTlmYWQ%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwZTllMzdkZDEyN2UyOWE1MTI3NzViYWE2OWQ5ZDIxNDU2MGU4MDgzOTlhNTNiNGE5NTA0MmRiNzk1ZTlmYWQ='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 94
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjQwZTllMzdkZDEyN2UyOWE1MTI3NzViYWE2OWQ5ZDIxNDU2MGU4MDgzOTlhNTNiNGE5NTA0MmRiNzk1ZTlmYWQ%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 90
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'if-none-match': 'W/"13-a4HPXUKcUkO2eVH5OTcHRSfUgTg"',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmtNSlgzY3NzaVViYURBZ2dIZW5rekY2UUtsbTZ1NTJiNTJOU0dtWHFPeUhiVlNoWThTRjV1azdnT2Zia05oeG4',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmtNSlgzY3NzaVViYURBZ2dIZW5rekY2UUtsbTZ1NTJiNTJOU0dtWHFPeUhiVlNoWThTRjV1azdnT2Zia05oeG4',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmtNSlgzY3NzaVViYURBZ2dIZW5rekY2UUtsbTZ1NTJiNTJOU0dtWHFPeUhiVlNoWThTRjV1azdnT2Zia05oeG4'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 268
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOmtNSlgzY3NzaVViYURBZ2dIZW5rekY2UUtsbTZ1NTJiNTJOU0dtWHFPeUhiVlNoWThTRjV1azdnT2Zia05oeG4'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"macOS"',
+        accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'no-cors',
+        'sec-fetch-dest': 'image',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      headers: {
+        host: 'localhost:3001',
+        'sec-fetch-site': 'none',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-mode': 'navigate',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
+        'accept-language': 'tr-TR,tr;q=0.9',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D',
+      query: {
+        token: 'NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjYzOWYyNTdkYmM1NzcyM2UyMWJjMDlhOjRlYWMxM2VmMDlmODhlZmYxODM5MWE4Y2RjYjRmYWExODgyOTY4YmU0OTc4YzZlZjNmNGE0OGM4ODhjYTAzMTU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRiNFZ6WVBWYW5KTXVOWDBRNXRQSDMweG8yY3J2em4rSnJ1aDduaTFNMjgrWmhqQlpiUG5LZkFlVU9kTEVOeTg',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRiNFZ6WVBWYW5KTXVOWDBRNXRQSDMweG8yY3J2em4rSnJ1aDduaTFNMjgrWmhqQlpiUG5LZkFlVU9kTEVOeTg',
+      query: {
+        token: 'NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRiNFZ6WVBWYW5KTXVOWDBRNXRQSDMweG8yY3J2em4rSnJ1aDduaTFNMjgrWmhqQlpiUG5LZkFlVU9kTEVOeTg'
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 361
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRiNFZ6WVBWYW5KTXVOWDBRNXRQSDMweG8yY3J2em4rSnJ1aDduaTFNMjgrWmhqQlpiUG5LZkFlVU9kTEVOeTg'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOjU5YWVmOGM4MzFkOGY0YzZlOTdhZDBhNjk5NWRiODdlNDIyNTM3MjUwYTRlODQ2Y2Q5M2U5NzY0MzY1ZGQxMjI%3D',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOjU5YWVmOGM4MzFkOGY0YzZlOTdhZDBhNjk5NWRiODdlNDIyNTM3MjUwYTRlODQ2Y2Q5M2U5NzY0MzY1ZGQxMjI%3D',
+      query: {
+        token: 'NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOjU5YWVmOGM4MzFkOGY0YzZlOTdhZDBhNjk5NWRiODdlNDIyNTM3MjUwYTRlODQ2Y2Q5M2U5NzY0MzY1ZGQxMjI='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 91
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOjU5YWVmOGM4MzFkOGY0YzZlOTdhZDBhNjk5NWRiODdlNDIyNTM3MjUwYTRlODQ2Y2Q5M2U5NzY0MzY1ZGQxMjI%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRkNWE2ZWNiMWQwMzk0ZDZjMThkM2ViOGZkMTU5YzgzY2IxZTMzM2Q1MTNjY2E4ZWEyMTk1Njg2ZTc1YTM3YzU%3D',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRkNWE2ZWNiMWQwMzk0ZDZjMThkM2ViOGZkMTU5YzgzY2IxZTMzM2Q1MTNjY2E4ZWEyMTk1Njg2ZTc1YTM3YzU%3D',
+      query: {
+        token: 'NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRkNWE2ZWNiMWQwMzk0ZDZjMThkM2ViOGZkMTU5YzgzY2IxZTMzM2Q1MTNjY2E4ZWEyMTk1Njg2ZTc1YTM3YzU='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlNjBkZWMyNzljMGM5NDk0ZWUxYjMxOmRkNWE2ZWNiMWQwMzk0ZDZjMThkM2ViOGZkMTU5YzgzY2IxZTMzM2Q1MTNjY2E4ZWEyMTk1Njg2ZTc1YTM3YzU%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OmYzZTJmNDE0YmNiNTgyM2Y5NDEzYmY5YjE1MzBhYTZiNmQwZWZjNGMxOWJkYzFiMGQwY2M4ZTE1ZTI2OGQwODk%3D',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OmYzZTJmNDE0YmNiNTgyM2Y5NDEzYmY5YjE1MzBhYTZiNmQwZWZjNGMxOWJkYzFiMGQwY2M4ZTE1ZTI2OGQwODk%3D',
+      query: {
+        token: 'NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OmYzZTJmNDE0YmNiNTgyM2Y5NDEzYmY5YjE1MzBhYTZiNmQwZWZjNGMxOWJkYzFiMGQwY2M4ZTE1ZTI2OGQwODk='
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 78
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OmYzZTJmNDE0YmNiNTgyM2Y5NDEzYmY5YjE1MzBhYTZiNmQwZWZjNGMxOWJkYzFiMGQwY2M4ZTE1ZTI2OGQwODk%3D'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"macOS"',
+        accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'no-cors',
+        'sec-fetch-dest': 'image',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico'
+}
+{
+  meta: {
+    req: {
+      url: '/verify?token=NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OjNiYmFlYjY2ZjQ0NzQ0NjI2MzJiNTA2YmVmNTQwMjViYWRiMWM5ODdkODg2MzdlNTAyZTY2YjNhOWQ1ZjY1MGQ%3D',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/verify?token=NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OjNiYmFlYjY2ZjQ0NzQ0NjI2MzJiNTA2YmVmNTQwMjViYWRiMWM5ODdkODg2MzdlNTAyZTY2YjNhOWQ1ZjY1MGQ%3D',
+      query: {
+        token: 'NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OjNiYmFlYjY2ZjQ0NzQ0NjI2MzJiNTA2YmVmNTQwMjViYWRiMWM5ODdkODg2MzdlNTAyZTY2YjNhOWQ1ZjY1MGQ='
+      }
+    },
+    res: { statusCode: 400 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: 'HTTP GET /verify?token=NjZlNjEzMzQ1MWE3Yzc2N2FkZTQ3YTQ2OjNiYmFlYjY2ZjQ0NzQ0NjI2MzJiNTA2YmVmNTQwMjViYWRiMWM5ODdkODg2MzdlNTAyZTY2YjNhOWQ1ZjY1MGQ%3D'
+}

@@ -1,0 +1,491 @@
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T07:44:59.004Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T07:44:59.010Z"}
+{"level":"info","message":"E-posta gönderildi: dadriyespo@guf34um.com","timestamp":"2024-09-11T07:45:01.351Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T07:45:01.352Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T07:45:53.614Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T07:45:55.122Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T07:45:55.124Z"}
+{"level":"info","message":"E-posta gönderildi: loneva7151@ploncy.com","timestamp":"2024-09-11T07:45:56.997Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T07:45:56.998Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T07:46:48.087Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T07:46:57.777Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T07:46:57.779Z"}
+{"level":"info","message":"E-posta gönderildi: loneva7151@ploncy.com","timestamp":"2024-09-11T07:46:59.657Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T07:46:59.657Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T07:51:56.595Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T07:51:57.380Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T07:51:57.382Z"}
+{"level":"info","message":"E-posta gönderildi: loneva7151@ploncy.com","timestamp":"2024-09-11T07:51:59.236Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T07:51:59.236Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T07:52:27.161Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T07:52:27.741Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T07:52:27.743Z"}
+{"level":"info","message":"E-posta gönderildi: loneva7151@ploncy.com","timestamp":"2024-09-11T07:52:29.548Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T07:52:29.549Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T08:03:50.132Z"}
+{
+  message: 'MongoDB bağlantısı başarılı',
+  level: 'info',
+  timestamp: '2024-09-11T08:03:51.954Z'
+}
+{
+  message: 'Server is running on port 3001',
+  level: 'info',
+  timestamp: '2024-09-11T08:03:51.957Z'
+}
+{
+  message: 'E-posta gönderildi: loneva7151@ploncy.com',
+  level: 'info',
+  timestamp: '2024-09-11T08:03:53.930Z'
+}
+{
+  message: 'Test e-postası gönderildi!',
+  level: 'info',
+  timestamp: '2024-09-11T08:03:53.932Z'
+}
+{
+  message: 'SIGTERM signal received: closing HTTP server',
+  level: 'info',
+  timestamp: '2024-09-11T08:07:34.565Z'
+}
+{
+  message: 'MongoDB bağlantısı başarılı',
+  level: 'info',
+  timestamp: '2024-09-11T16:30:24.107Z'
+}
+{
+  message: 'Server is running on port 3001',
+  level: 'info',
+  timestamp: '2024-09-11T16:30:24.111Z'
+}
+{
+  message: 'SIGTERM signal received: closing HTTP server',
+  level: 'info',
+  timestamp: '2024-09-11T16:39:27.866Z'
+}
+{
+  message: 'Server 3000 portunda çalışıyor',
+  level: 'info',
+  timestamp: '2024-09-11T16:39:28.941Z'
+}
+{
+  level: 'error',
+  message: 'MongoDB bağlantı hatası: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at NativeConnection.createClient (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:219:11)\n' +
+    '    at NativeConnection.openUri (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/connection.js:823:34)\n' +
+    '    at Mongoose.connect (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/mongoose.js:447:15)\n' +
+    '    at Object.<anonymous> (/Users/umut/Desktop/magic.link/server.js:62:10)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1317:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1127:12)\n' +
+    '    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n' +
+    '    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)',
+  timestamp: '2024-09-11T16:39:28.945Z'
+}
+{
+  message: 'SIGTERM sinyali alındı. Sunucu kapatılıyor.',
+  level: 'info',
+  timestamp: '2024-09-11T16:44:02.232Z'
+}
+{
+  message: 'Server 3000 portunda çalışıyor',
+  level: 'info',
+  timestamp: '2024-09-11T16:44:02.941Z'
+}
+{
+  level: 'error',
+  message: 'MongoDB bağlantı hatası: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at NativeConnection.createClient (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:219:11)\n' +
+    '    at NativeConnection.openUri (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/connection.js:823:34)\n' +
+    '    at Mongoose.connect (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/mongoose.js:447:15)\n' +
+    '    at Object.<anonymous> (/Users/umut/Desktop/magic.link/server.js:62:10)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1317:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1127:12)\n' +
+    '    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n' +
+    '    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)',
+  timestamp: '2024-09-11T16:44:02.945Z'
+}
+{
+  message: 'SIGTERM sinyali alındı. Sunucu kapatılıyor.',
+  level: 'info',
+  timestamp: '2024-09-11T16:44:53.670Z'
+}
+{
+  message: 'Server 3000 portunda çalışıyor',
+  level: 'info',
+  timestamp: '2024-09-11T16:44:54.590Z'
+}
+{
+  level: 'error',
+  message: 'MongoDB bağlantı hatası: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at NativeConnection.createClient (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:219:11)\n' +
+    '    at NativeConnection.openUri (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/connection.js:823:34)\n' +
+    '    at Mongoose.connect (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/mongoose.js:447:15)\n' +
+    '    at Object.<anonymous> (/Users/umut/Desktop/magic.link/server.js:62:10)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1317:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1127:12)\n' +
+    '    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n' +
+    '    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)',
+  timestamp: '2024-09-11T16:44:54.593Z'
+}
+{
+  message: 'SIGTERM sinyali alındı. Sunucu kapatılıyor.',
+  level: 'info',
+  timestamp: '2024-09-11T16:47:10.868Z'
+}
+{
+  message: 'Server 3000 portunda çalışıyor',
+  level: 'info',
+  timestamp: '2024-09-11T16:47:11.868Z'
+}
+{
+  level: 'error',
+  message: 'MongoDB bağlantı hatası: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at NativeConnection.createClient (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:219:11)\n' +
+    '    at NativeConnection.openUri (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/connection.js:823:34)\n' +
+    '    at Mongoose.connect (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/mongoose.js:447:15)\n' +
+    '    at Object.<anonymous> (/Users/umut/Desktop/magic.link/server.js:62:10)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1317:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1127:12)\n' +
+    '    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n' +
+    '    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)',
+  timestamp: '2024-09-11T16:47:11.872Z'
+}
+{
+  message: 'SIGTERM sinyali alındı. Sunucu kapatılıyor.',
+  level: 'info',
+  timestamp: '2024-09-11T16:48:32.406Z'
+}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T16:48:33.191Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-09-11T16:48:33.193Z"}
+{"level":"info","message":"E-posta gönderildi: loneva7151@ploncy.com","timestamp":"2024-09-11T16:48:35.569Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T16:48:35.570Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:01:11.724Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:01:35.205Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-09-11T17:01:35.207Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:01:37.226Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:01:37.227Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:02:32.257Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:02:32.939Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-09-11T17:02:32.943Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:02:34.741Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:02:34.742Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:03:53.730Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:03:54.415Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T17:03:54.418Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:03:57.002Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:03:57.003Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:04:44.135Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:04:45.115Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T17:04:45.117Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:04:47.198Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:04:47.199Z"}
+{"level":"info","message":"HTTP server closed","timestamp":"2024-09-11T17:05:34.990Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:13:52.374Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:22:37.402Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:23:06.068Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:23:16.964Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:23:33.085Z"}
+{"level":"info","message":"Server is running on port 30012","timestamp":"2024-09-11T17:23:33.087Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:23:35.033Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:23:35.034Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:26:10.621Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:26:11.245Z"}
+{"level":"info","message":"Server is running on port 30012","timestamp":"2024-09-11T17:26:11.248Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:26:14.041Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:26:14.042Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:26:32.000Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:26:32.661Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2024-09-11T17:26:32.663Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:26:34.540Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:26:34.541Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:28:52.945Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T17:28:53.781Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2024-09-11T17:28:53.783Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T17:28:55.802Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T17:28:55.804Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T17:30:20.257Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:10:13.788Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T20:10:13.795Z"}
+{"level":"info","message":"E-posta gönderildi: namim72455@ploncy.com","timestamp":"2024-09-11T20:10:16.027Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:10:16.028Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T20:12:17.115Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:12:18.745Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T20:12:18.748Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T20:12:20.753Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:12:20.754Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T20:13:09.320Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:13:11.794Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T20:13:11.797Z"}
+{"level":"info","message":"E-posta gönderildi: piheca5015@ploncy.com","timestamp":"2024-09-11T20:13:13.695Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:13:13.696Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T20:13:39.864Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:13:40.800Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-11T20:13:40.803Z"}
+{"level":"info","message":"E-posta gönderildi: namim72455@ploncy.com","timestamp":"2024-09-11T20:13:42.718Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:13:42.719Z"}
+{"level":"info","message":"HTTP server closed","timestamp":"2024-09-11T20:13:48.838Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:16:04.702Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:17:28.858Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2024-09-11T20:17:28.860Z"}
+{"level":"info","message":"E-posta gönderildi: namim72455@ploncy.com","timestamp":"2024-09-11T20:17:30.858Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:17:30.859Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T20:34:09.047Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:34:10.252Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2024-09-11T20:34:10.255Z"}
+{"level":"info","message":"E-posta gönderildi: namim72455@ploncy.com","timestamp":"2024-09-11T20:34:14.266Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:34:14.267Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T20:34:45.912Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:34:46.785Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2024-09-11T20:34:46.788Z"}
+{"level":"info","message":"E-posta gönderildi: namim72455@ploncy.com","timestamp":"2024-09-11T20:34:48.624Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:34:48.625Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T20:35:05.314Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:35:06.091Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2024-09-11T20:35:06.094Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:35:09.138Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:35:09.139Z"}
+{"kind":"ObjectId","level":"error","message":"Token doğrulama hatası: Cast to ObjectId failed for value \"�oy�����6��|s}<�k���g��M��\\\\�W�y���m_\\x7Fݽi��o�_\" (type string) at path \"_id\" for model \"User\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"�oy�����6��|s}<�k���g��M��\\\\�W�y���m_\\x7Fݽi��o�_\" (type string) at path \"_id\" for model \"User\"\n    at SchemaObjectId.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaType.applySetters (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaType.castForQuery (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/cast.js:379:32)\n    at Query.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4868:12)\n    at Query._castConditions (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4412:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async /Users/umut/Desktop/magic.link/server.js:249:18","stringValue":"\"�oy�����6��|s}<�k���g��M��\\\\�W�y���m_\\x7Fݽi��o�_\"","timestamp":"2024-09-11T20:42:08.670Z","value":"�oy�����6��|s}<�k���g��M��\\�W�y���m_ݽi��o�_","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Token doğrulama hatası: Cast to ObjectId failed for value \"y��ߝ7�[o���G��}\\x1E\\x7F�\" (type string) at path \"_id\" for model \"User\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"y��ߝ7�[o���G��}\\x1E\\x7F�\" (type string) at path \"_id\" for model \"User\"\n    at SchemaObjectId.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaType.applySetters (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaType.castForQuery (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/cast.js:379:32)\n    at Query.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4868:12)\n    at Query._castConditions (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4412:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async /Users/umut/Desktop/magic.link/server.js:249:18","stringValue":"\"y��ߝ7�[o���G��}\\x1E\\x7F�\"","timestamp":"2024-09-11T20:43:16.975Z","value":"y��ߝ7�[o���G��}\u001e�","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Token doğrulama hatası: Cast to ObjectId failed for value \"y��ߝ7�[o���G��}\\x1E\\x7F�\" (type string) at path \"_id\" for model \"User\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"y��ߝ7�[o���G��}\\x1E\\x7F�\" (type string) at path \"_id\" for model \"User\"\n    at SchemaObjectId.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaType.applySetters (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaType.castForQuery (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/cast.js:379:32)\n    at Query.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4868:12)\n    at Query._castConditions (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4412:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async /Users/umut/Desktop/magic.link/server.js:249:18","stringValue":"\"y��ߝ7�[o���G��}\\x1E\\x7F�\"","timestamp":"2024-09-11T20:43:21.489Z","value":"y��ߝ7�[o���G��}\u001e�","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Token doğrulama hatası: Cast to ObjectId failed for value \"y��ߝ7�[o���G��}\\x1E\\x7F�\" (type string) at path \"_id\" for model \"User\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"y��ߝ7�[o���G��}\\x1E\\x7F�\" (type string) at path \"_id\" for model \"User\"\n    at SchemaObjectId.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaType.applySetters (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaType.castForQuery (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/cast.js:379:32)\n    at Query.cast (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4868:12)\n    at Query._castConditions (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/umut/Desktop/magic.link/node_modules/mongoose/lib/query.js:4412:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async /Users/umut/Desktop/magic.link/server.js:249:18","stringValue":"\"y��ߝ7�[o���G��}\\x1E\\x7F�\"","timestamp":"2024-09-11T20:43:22.980Z","value":"y��ߝ7�[o���G��}\u001e�","valueType":"string"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T20:44:44.428Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T20:44:45.227Z"}
+{"level":"info","message":"Server is running on port 3002","timestamp":"2024-09-11T20:44:45.230Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:44:47.397Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T20:44:47.399Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:08.605Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:10.590Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:13.008Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:15.062Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:16.899Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:19.971Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:21.814Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:24.067Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:25.808Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:28.573Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:30.315Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:32.097Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:34.220Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:36.147Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:39.119Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:41.204Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:44.240Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:46.083Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:48.029Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:49.772Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:53.868Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:55.709Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:47:58.553Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:02.467Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:04.400Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:06.520Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:08.208Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:09.868Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:12.931Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:14.795Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:16.698Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:18.544Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:23.585Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:25.814Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:27.660Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:29.708Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:31.549Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:34.621Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:37.796Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:39.639Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:41.603Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:43.632Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:45.768Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:47.524Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:50.367Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:52.236Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:54.180Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:56.023Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:48:59.075Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:00.790Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:02.809Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:04.727Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:07.082Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:09.386Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:12.590Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:14.459Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:16.298Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:18.346Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:20.394Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:22.545Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:24.388Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:26.641Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:29.508Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:32.721Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:36.574Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:38.520Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:40.567Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:42.513Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:44.356Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:46.019Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:47.735Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:49.432Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:51.115Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:54.084Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:55.825Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:49:57.566Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:00.483Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:03.403Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:05.143Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:06.742Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:08.420Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:10.061Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:11.761Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:14.770Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:16.510Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:18.523Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:20.196Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:22.029Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:23.679Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:25.512Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:27.570Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:30.334Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:32.178Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:36.069Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:37.709Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:39.534Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:41.153Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:46.820Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:48.664Z"}
+{"level":"info","message":"E-posta gönderildi: cartivudro@gufum.com","timestamp":"2024-09-11T20:50:50.303Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T21:01:38.192Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T21:01:50.256Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T21:02:01.634Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-11T21:02:01.636Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-11T21:02:03.459Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T21:02:03.460Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T21:05:04.921Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T21:05:06.413Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-11T21:05:06.416Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-11T21:05:08.119Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T21:05:08.120Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T21:07:17.684Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T21:07:18.429Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-11T21:07:18.432Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-11T21:07:19.947Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T21:07:19.948Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T21:09:51.604Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T21:09:52.338Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-11T21:09:52.341Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-11T21:09:55.250Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T21:09:55.251Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T21:11:17.918Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-11T21:13:12.508Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-11T21:13:12.511Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-11T21:13:14.219Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-11T21:13:14.220Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T21:17:59.386Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T21:17:59.386Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-11T21:17:59.386Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:35:13.118Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-12T20:35:13.121Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T20:35:15.373Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T20:35:15.375Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T20:43:52.004Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:43:53.563Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-12T20:43:53.566Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T20:43:55.363Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T20:43:55.364Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T20:45:55.021Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:45:55.772Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-12T20:45:55.774Z"}
+{"level":"error","message":"Test e-postası gönderim hatası: Cannot read properties of undefined (reading 'toLowerCase')","stack":"TypeError: Cannot read properties of undefined (reading 'toLowerCase')\n    at createEmailHtml (/Users/umut/Desktop/magic.link/server.js:188:125)\n    at sendInitialEmail (/Users/umut/Desktop/magic.link/server.js:233:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Server.<anonymous> (/Users/umut/Desktop/magic.link/server.js:342:7)","timestamp":"2024-09-12T20:45:55.855Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T20:48:27.782Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:48:28.985Z"}
+{"level":"info","message":"Server is running on port 3005","timestamp":"2024-09-12T20:48:28.988Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T20:48:31.068Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T20:48:31.069Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:52:19.327Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:52:40.782Z"}
+{"level":"info","message":"Server is running on port 3006","timestamp":"2024-09-12T20:52:40.785Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T20:52:43.117Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T20:52:43.119Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T20:54:23.766Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:54:24.428Z"}
+{"level":"info","message":"Server is running on port 3006","timestamp":"2024-09-12T20:54:24.431Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T20:54:26.267Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T20:54:26.268Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:57:37.671Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T20:57:53.093Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-12T20:57:53.096Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T20:57:54.917Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T20:57:54.919Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T21:01:50.131Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T21:01:50.865Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-12T21:01:50.868Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T21:01:52.973Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T21:01:52.974Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T21:05:45.802Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T21:05:46.969Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-12T21:05:46.972Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T21:05:49.263Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T21:05:49.265Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T21:12:54.124Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T21:12:54.979Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-12T21:12:54.983Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T21:12:56.744Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T21:12:56.745Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T21:17:00.889Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-12T21:17:01.507Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-12T21:17:01.509Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-12T21:17:03.834Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-12T21:17:03.836Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T21:45:12.184Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-12T21:45:12.184Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:25:19.882Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:25:19.886Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-14T22:25:22.079Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-14T22:25:22.079Z"}
+{"level":"error","message":"Token doğrulama hatası: Cannot set properties of undefined (setting 'userId')","stack":"TypeError: Cannot set properties of undefined (setting 'userId')\n    at /Users/umut/Desktop/magic.link/server.js:338:24\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2024-09-14T22:26:41.352Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:27:55.902Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:27:56.690Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:27:56.692Z"}
+{"level":"info","message":"E-posta gönderildi: napodo6193@nastyx.com","timestamp":"2024-09-14T22:27:58.848Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-14T22:27:58.849Z"}
+{"level":"error","message":"Token doğrulama hatası: Cannot set properties of undefined (setting 'userId')","stack":"TypeError: Cannot set properties of undefined (setting 'userId')\n    at /Users/umut/Desktop/magic.link/server.js:338:24\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2024-09-14T22:28:07.366Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:34:07.101Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:34:58.213Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:34:58.215Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:36:31.738Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:36:33.387Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:36:33.390Z"}
+{"level":"info","message":"E-posta gönderildi: umut-cara@hotmail.com","timestamp":"2024-09-14T22:36:35.255Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-14T22:36:35.256Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:39:46.952Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:40:27.514Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:40:27.524Z"}
+{"level":"info","message":"E-posta gönderildi: napodo6193@nastyx.com","timestamp":"2024-09-14T22:40:29.290Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-14T22:40:29.292Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:40:56.071Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:40:57.143Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:40:57.146Z"}
+{"level":"info","message":"E-posta gönderildi: napodo6193@nastyx.com","timestamp":"2024-09-14T22:40:58.853Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-14T22:40:58.855Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:45:17.575Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:50:28.670Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:50:28.679Z"}
+{"level":"info","message":"E-posta gönderildi: hiyij46592@nastyx.com","timestamp":"2024-09-14T22:50:30.490Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-14T22:50:30.491Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:50:39.418Z"}
+{"level":"info","message":"MongoDB bağlantısı başarılı","timestamp":"2024-09-14T22:50:40.443Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-09-14T22:50:40.445Z"}
+{"level":"info","message":"E-posta gönderildi: hiyij46592@nastyx.com","timestamp":"2024-09-14T22:50:42.182Z"}
+{"level":"info","message":"Test e-postası gönderildi!","timestamp":"2024-09-14T22:50:42.183Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2024-09-14T22:52:07.865Z"}
